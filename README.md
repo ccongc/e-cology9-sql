@@ -29,6 +29,6 @@ python poc.py
 ```
 
 ```
-sqlmap --tamper=url3.py -r {filename}
+sqlmap -r {filename} --tamper=url3.py 
 ```
 
